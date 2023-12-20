@@ -20,6 +20,7 @@ module.exports = {
       twitter: `kylemathews`,
     },
   },
+  pathPrefix: "/portfolio-web-blog",
   plugins: [
     `gatsby-plugin-image`,
     {
